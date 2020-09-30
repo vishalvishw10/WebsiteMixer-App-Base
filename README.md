@@ -66,11 +66,11 @@ coverage html  # open htmlcov/index.html in a browser
 
 ## Installation
 
-NEW!! - This project now uses a web based installer/setup similar to WordPress!
+NEW!! - This project now uses a web-based installer/setup similar to WordPress!
 
 ## Why?
 
-I love WordPress and Drupal, but they can definitely be frustrating and have their own drawbacks. I used Django and it was a great toolset, but seemed like overkill for just building a basic website and made cloning websites and code bases a bit more difficult. So as I've been learning and working with Python more, I stumbled upon Flask, and completely fell in love.
+I love WordPress and Drupal, but they can definitely be frustrating and have their own drawbacks. I used Django and it was a great toolset, but seemed like overkill for just building a basic website and made cloning websites and codebases a bit more difficult. So as I've been learning and working with Python more, I stumbled upon Flask and completely fell in love.
 
 ## ToDo
 
